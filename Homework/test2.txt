@@ -1,0 +1,8 @@
+5 13
+cannibal 1 is hungry
+cannibal -2 is hungry
+cannibal 3 is hungry
+cannibal -4 is hungry
+cannibal 5 is hungry
+cannibal -6 is hungry
+cannibal 7 is hungry
